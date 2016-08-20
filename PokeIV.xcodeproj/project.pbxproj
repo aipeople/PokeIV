@@ -22,7 +22,6 @@
 		230EA5E21D64501A0016E784 /* UIButtonExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230EA5E11D64501A0016E784 /* UIButtonExtensions.swift */; };
 		230EA5E81D645C330016E784 /* SortOptionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230EA5E71D645C330016E784 /* SortOptionSheet.swift */; };
 		230EA5F01D6469D00016E784 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230EA5EF1D6469D00016E784 /* RootViewController.swift */; };
-		230EA5F21D6490840016E784 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 230EA5F11D6490840016E784 /* GoogleService-Info.plist */; };
 		230EA5F41D6492080016E784 /* AdCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230EA5F31D6492080016E784 /* AdCell.swift */; };
 		233917D71D60B0230097452C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233917D61D60B0230097452C /* AppDelegate.swift */; };
 		233917D91D60B0230097452C /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233917D81D60B0230097452C /* LoginViewController.swift */; };
@@ -54,7 +53,6 @@
 		230EA5E11D64501A0016E784 /* UIButtonExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonExtensions.swift; sourceTree = "<group>"; };
 		230EA5E71D645C330016E784 /* SortOptionSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SortOptionSheet.swift; sourceTree = "<group>"; };
 		230EA5EF1D6469D00016E784 /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
-		230EA5F11D6490840016E784 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		230EA5F31D6492080016E784 /* AdCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdCell.swift; sourceTree = "<group>"; };
 		233917D31D60B0230097452C /* PokeIV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokeIV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		233917D61D60B0230097452C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -183,7 +181,6 @@
 			children = (
 				233917D61D60B0230097452C /* AppDelegate.swift */,
 				233917E21D60B0230097452C /* Info.plist */,
-				230EA5F11D6490840016E784 /* GoogleService-Info.plist */,
 				230EA5E91D6468E00016E784 /* Media */,
 				230EA5DC1D644FBB0016E784 /* Extensions */,
 				230EA5CF1D644E520016E784 /* Popover views */,
@@ -277,7 +274,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				233917E11D60B0230097452C /* LaunchScreen.storyboard in Resources */,
-				230EA5F21D6490840016E784 /* GoogleService-Info.plist in Resources */,
 				2365D9431D6587C400C7E555 /* pokemonImages in Resources */,
 				233917DE1D60B0230097452C /* Assets.xcassets in Resources */,
 				233917DC1D60B0230097452C /* Main.storyboard in Resources */,
