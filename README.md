@@ -1,6 +1,8 @@
 # PokeIV
 Pokemon's individual value reader for Pokemon Go
 
+![alt text](http://i.imgur.com/8Jukpzc.png "snapshot")
+
 ## Festures:
 * This app won't upload your location-related data.
 * Support Google account & Pokémon Trainer Club account log-in.<br>
