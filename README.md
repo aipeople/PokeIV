@@ -9,7 +9,7 @@ Pokemon's individual value reader for Pokemon Go
 **NOTICE** : Google accounts with 2-Step Verification are not supported.
 
 ## Setup
-After clone this project to your computer, run following commends.
+After clone this project to your computer, run following commands.
 ````
 $ cd <path_of_pokeIV_directory> 
 $ pod install
